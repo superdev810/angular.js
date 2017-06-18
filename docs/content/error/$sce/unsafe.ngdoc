@@ -14,3 +14,5 @@ This helps prevent XSS and other security issues.  Read more at
 {@link ng.$sce Strict Contextual Escaping (SCE)}
 
 You may want to include the ngSanitize module to use the automatic sanitizing.
+
+$sce support the unsafe html code to make it trust part.
